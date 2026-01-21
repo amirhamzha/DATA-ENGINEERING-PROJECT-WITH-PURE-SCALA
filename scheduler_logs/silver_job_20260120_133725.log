@@ -1,0 +1,9 @@
+[MainCli] Running Silver job: outDir=D:\scala\internship_project\Silver_json\silver
+[SILVER] Starting Silver layer
+bronze transactions count: 1015
+Silver transactions count: 1015
+Deduplicated transactions: 1015
+[SILVER] Enriched transactions to write: 1015
+[SILVER] Written: D:\scala\internship_project\Silver_json\silver/enriched_transactions.jsonl
+[SILVER] Completed successfully
+[MainCli] Silver job completed successfully

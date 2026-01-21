@@ -1,0 +1,11 @@
+agent_id,agent_name,location,region,commission_rate
+AGENT_01,Dhaka Digital Pay,"Motijheel, Dhaka",Central,0.015
+AGENT_02,Port City Cash,"Agrabad, Chattogram",South-East,0.012
+AGENT_03,Sylhet Tea-Link,"Zindabazar, Sylhet",North-East,0.010
+AGENT_04,Khulna Express,"Shiv Bari, Khulna",South-West,0.015
+AGENT_05,Rajshahi Silk-Pay,"Saheb Bazar, Rajshahi",North-West,0.018
+AGENT_06,Barisal River-Point,"Sadat Road, Barisal",South,0.012
+AGENT_07,Rangpur Junction,"Rangpur Sadar, Rangpur",North,0.010
+AGENT_08,Gazipur Industrial,"Board Bazar, Gazipur",Central,0.015
+AGENT_09,Cox's Beach Services,"Kalatoli, Cox's Bazar",South-East,0.020
+AGENT_10,Mymensingh Hub,"Ganginar Par, Mymensingh",North-Central,0.015

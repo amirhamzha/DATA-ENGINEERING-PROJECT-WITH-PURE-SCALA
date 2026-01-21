@@ -1,0 +1,4 @@
+{"date":"2026-01-20","riskLevel":"HIGH","txnCount":"415","totalAmount":"1241895.0","highValueTxnCount":"415","suspiciousTxnCount":"15"}
+{"date":"2026-01-20","riskLevel":"LOW","txnCount":"331","totalAmount":"1132246.75","highValueTxnCount":"331","suspiciousTxnCount":"15"}
+{"date":"2026-01-20","riskLevel":"MEDIUM","txnCount":"40","totalAmount":"182660.0","highValueTxnCount":"40","suspiciousTxnCount":"3"}
+{"date":"2026-01-20","riskLevel":"UNKNOWN","txnCount":"229","totalAmount":"905415.0","highValueTxnCount":"229","suspiciousTxnCount":"24"}

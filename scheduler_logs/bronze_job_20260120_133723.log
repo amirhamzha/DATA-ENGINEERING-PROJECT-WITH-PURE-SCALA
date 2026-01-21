@@ -1,0 +1,12 @@
+[MainCli] Running Bronze job: users=D:\scala\internship_project\src\main\scala\data\user.csv, wallets=D:\scala\internship_project\src\main\scala\data\wallet.csv, agents=D:\scala\internship_project\src\main\scala\data\agent.csv, txns=D:\scala\internship_project\src\main\scala\data\transaction.csv, outDir=D:\scala\internship_project\Bronze_json\bronze
+[BronzeJob] starting ingestion at 2026-01-20T07:37:23.231585500Z
+[BronzeJob] writing users bronze -> D:\scala\internship_project\Bronze_json\bronze/users/users_2026-01-20T07-37-23.231585500Z.jsonl
+[BronzeJob] users complete
+[BronzeJob] writing wallets bronze -> D:\scala\internship_project\Bronze_json\bronze/wallets/wallets_2026-01-20T07-37-23.231585500Z.jsonl
+[BronzeJob] wallets complete
+[BronzeJob] writing agents bronze -> D:\scala\internship_project\Bronze_json\bronze/agents/agents_2026-01-20T07-37-23.231585500Z.jsonl
+[BronzeJob] agents complete
+[BronzeJob] writing transactions bronze -> D:\scala\internship_project\Bronze_json\bronze/transactions/transactions_2026-01-20T07-37-23.231585500Z.jsonl
+[BronzeJob] transactions complete
+[BronzeJob] ingestion finished
+[MainCli] Bronze job completed successfully

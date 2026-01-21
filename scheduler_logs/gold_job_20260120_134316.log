@@ -1,0 +1,2 @@
+[MainCli] Running Gold job: silverPath=D:\scala\internship_project\Silver_json\silver\enriched_transactions.jsonl, outDir=D:\scala\internship_project\Gold_json\gold
+[MainCli] Gold job completed successfully
